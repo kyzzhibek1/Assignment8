@@ -1,0 +1,9 @@
+Account Holder: Bermet
+Account Number: 12345
+Balance: $710.0
+
+Transaction History:
+Amount{amount=1000.0, transactions='deposit'}
+Amount{amount=440.0, transactions='withdraw'}
+Amount{amount=150.0, transactions='deposit'}
+Error: Insufficient balance. Cannot withdraw $10000.0. Current balance: $710.0
